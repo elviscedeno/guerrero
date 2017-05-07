@@ -1,5 +1,5 @@
 
-package taller_grupal_4to.sem;
+package TALLER;
 
 import java.util.Date;
 
