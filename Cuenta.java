@@ -1,6 +1,11 @@
 
 package TALLER;
 
+/**
+ *
+ * @author elvis
+ */
+
 import java.util.Date;
 
 public class Cuenta {
