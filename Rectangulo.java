@@ -7,7 +7,7 @@ package TALLER;
 
 /**
  *
- * @author elviscedeño
+ * @author elvis
  */
 public class Rectangulo {
     
