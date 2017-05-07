@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package taller_grupal_4to.sem;
+package TALLER;
 
 /**
  *
- * @author PC6
+ * @author elviscedeño
  */
 public class Rectangulo {
     
